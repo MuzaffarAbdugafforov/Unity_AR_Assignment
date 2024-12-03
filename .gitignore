@@ -1,0 +1,35 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio Code files
+.vscode/
+
+# Unity specific files
+.DS_Store
+*.csproj
+*.sln
+*.unityproj
+
+# Auto-generated files
+*.pidb
+*.booproj
+*.svd
+
+# Crashlytics generated files
+crashlytics-build.properties
+
+# IDE-specific files
+*.idea/
+*.vs/
+
+# Miscellaneous
+*.swp
+*.lock
+*.tmp
+*.temp
